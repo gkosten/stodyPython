@@ -1,0 +1,2 @@
+# stodyPython
+Trying Python
